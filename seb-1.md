@@ -30,7 +30,7 @@ b=eval(input())
 
 #output
 
-![Image](https://github.com/user-attachments/assets/ff355801-ba72-42ad-bb28-1438d8830955)
+![Image](https://github.com/user-attachments/assets/b09922fb-3aeb-4459-a6c7-77337ede39f7)
 
 #result
 ```
