@@ -28,8 +28,7 @@ print(a**b)
 ```
 
 #output
-
-![Image](https://github.com/user-attachments/assets/b09922fb-3aeb-4459-a6c7-77337ede39f7)
+![Image](https://github.com/user-attachments/assets/9679d5ff-e267-412c-b13a-7de211674123)
 
 #result
 ```
